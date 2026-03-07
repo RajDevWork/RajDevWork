@@ -49,8 +49,6 @@ Next-generation CRM platform with interactive dashboards, AI-powered email conte
 Tech Stack  
 PHP • MySQL • JavaScript • Bootstrap • OpenAI API
 
-https://asteredge.com
-
 ---
 
 ### 🔹 CleanSpamTrap Tool
@@ -75,9 +73,9 @@ https://28mails.com
 
 ## 📊 GitHub Stats
 
-![Rajeshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajDevWork&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RajDevWork&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDevWork&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajDevWork&layout=compact)
 
 ---
 
