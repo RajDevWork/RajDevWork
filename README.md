@@ -75,9 +75,9 @@ https://28mails.com
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajDevWork&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajdevwork&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDevWork)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdevwork&layout=compact)
 
 ---
 
