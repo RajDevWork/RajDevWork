@@ -5,7 +5,7 @@ Experienced in building scalable CRM systems, internal tools, dashboards, and ma
 
 ⚡ Skilled in **PHP (Core & Laravel), React, Node.js, MySQL, and REST APIs** with proven experience handling **large datasets (25M–90M records)** and building stable backend architectures.
 
-🌱 Currently expanding expertise in **Python (FastAPI) and the MERN stack** to strengthen full-stack and modern backend capabilities.
+🌱 Currently expanding expertise in **Next and the MERN stack** to strengthen full-stack and modern backend capabilities.
 
 ---
 
@@ -13,7 +13,7 @@ Experienced in building scalable CRM systems, internal tools, dashboards, and ma
 
 ### Languages & Frameworks
 JavaScript (ES6+) • Node.js • Express.js • React.js  
-PHP (Core PHP, Laravel) • Python (FastAPI)
+PHP (Core PHP, Laravel) • Next js. • Typescript 
 
 ### Databases
 MySQL • MongoDB
