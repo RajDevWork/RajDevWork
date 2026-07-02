@@ -1,119 +1,91 @@
-# 👋 Hi, I am Rajeshwar Parihar
+# Hi 👋 I'm Rajeshwar Parihar
 
-### 🚀 Full Stack Developer | 8+ Years of Experience | PHP • Laravel • Next.js • React • Node.js • Typescript
+💻 **Full Stack Developer (8 Years Experience)**  
+Experienced in building scalable CRM systems, internal tools, dashboards, and marketing platforms.
 
-I specialize in building **scalable enterprise applications**, **SaaS platforms**, and **high-performance backend systems**. With a strong foundation in PHP/Laravel and growing expertise in the MERN stack, I craft solutions that handle **millions of records** with efficiency and clean architecture.
+⚡ Skilled in **PHP (Core & Laravel), React, Node.js, MySQL, and REST APIs** with proven experience handling **large datasets (25M–90M records)** and building stable backend architectures.
+
+🌱 Currently expanding expertise in **Next and the MERN stack** to strengthen full-stack and modern backend capabilities.
+
+---
+
+# 🚀 Tech Stack
+
+### Languages & Frameworks
+JavaScript (ES6+) • Node.js • Express.js • React.js  
+PHP (Core PHP, Laravel) • Next js. • Typescript 
+
+### Databases
+MySQL • MongoDB
+
+### Frontend
+React.js • Bootstrap • Tailwind CSS  
+HTML5 • CSS3 • jQuery • Responsive UI
+
+### Tools
+Git • GitHub • VS Code • Postman  
+cPanel • VestaCP • API Testing & Debugging
+
+---
+
+# ⚡ Core Expertise
+
+• CRM Development & Internal Dashboards  
+• Role-Based Access Control (RBAC) Systems  
+• RESTful API Design & Integration  
+• AI Integration (OpenAI API / Gemini API)  
+• Backend Performance Optimization  
+• MySQL Query Optimization  
+• Large Dataset Handling (25M–90M records)  
+• Scalable Backend Architecture & System Design  
+
+---
+
+# 📌 Key Projects
+
+### 🔹 Aster CRM
+Next-generation CRM platform with interactive dashboards, AI-powered email content generation using OpenAI API, and advanced role-based access control.
+
+Tech Stack  
+PHP • MySQL • JavaScript • Bootstrap • OpenAI API
+
+---
+
+### 🔹 CleanSpamTrap Tool
+A large-scale email validation and spam detection platform that processes **90M+ records** with optimized MySQL queries.
+
+Tech Stack  
+Core PHP • MySQL • JavaScript • Bootstrap
+
+https://cleanspamtraps.com
+
+---
+
+### 🔹 Account Based Marketing Platform (ABM)
+Laravel-based platform for targeted marketing campaigns, lead management, and real-time email activity tracking.
+
+Tech Stack  
+Laravel • MySQL • REST APIs • Email API Integration
+
+https://28mails.com
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajDevWork&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajDevWork&layout=compact&theme=radical&hide_border=true" height="170" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=RajDevWork&theme=radical&hide_border=true" />
-  
-  <br/>
- 
-  
-</div>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RajDevWork&show_icons=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajDevWork&layout=compact)
 
 ---
 
-## 🛠️ Tech Stack
+# 📫 Connect With Me
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Bootstrap, jQuery |
-| **Backend** | PHP, Laravel, Node.js, Express.js |
-| **Databases** | MySQL, MongoDB, Redis |
-| **Tools & Integrations** | Docker, Git, OpenAI API, Gemini API, Firebase Auth, Cloudinary, Stripe, Imagekit |
-| **Other Skills** | REST API Design, RBAC, Queue Management, Query Optimization, System Architecture |
+LinkedIn  
+https://linkedin.com/in/rajeshwar-parihar-a4a127154
 
----
+GitHub  
+https://github.com/RajDevWork
 
-## 💡 What I Bring to the Table
-
-- ✅ **8+ years of full-stack development** experience  
-- ✅ Expertise in **CRM, SaaS, and business tool** development  
-- ✅ Optimized systems handling **25M-90M+ records**  
-- ✅ Seamless **AI integration** (OpenAI, Gemini)  
-- ✅ Clean REST APIs with robust **authentication & authorization**  
-- ✅ Scalable backend architecture with **background job processing**  
-- ✅ Modern, responsive frontends built with **React & Next.js**  
-- ✅ Experience with **Docker**, **Redis**, and **queue-driven workflows**
-
----
-
-## 📌 Featured Projects
-
-### 📧 Campaign Your Email (RBAC BASED CRM)
-> Enterprise-grade Role-Based Marketing CRM built with Laravel.
-
-- Customer & campaign management  
-- Email workflow automation with queue-based processing  
-- REST APIs, modern dashboard, Pest testing  
-
-🔗 [Repository](https://github.com/RajDevWork/campaign-your-email)
-
----
-
-### 🏡 Reactive Estate
-> Full-featured real estate platform using the MERN stack.
-
-- JWT + Google OAuth authentication  
-- Property listings with CRUD operations  
-- Cloudinary image upload, responsive UI  
-
-🔗 [Repository](https://github.com/RajDevWork/reactive-estate)
-
----
-
-### 🛡️ Filter Spam
-> SaaS platform for detecting spam emails using background processing.
-
-- CSV upload and parsing  
-- Credit-based system with BullMQ background jobs  
-- Redis caching, role-based access, Docker support  
-
-🔗 [Repository](https://github.com/RajDevWork/filter-spam)
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajDevWork&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced Next.js (App Router, Server Components)  
-- System Design & Distributed Systems  
-- Cloud-native deployment strategies  
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/rajeshwar-parihar-a4a127154">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/RajDevWork">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rajparihar14397@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-> *"Building software that solves real-world problems with clean architecture and scalable solutions."*
+Email  
+rajparihar14397@gmail.com
