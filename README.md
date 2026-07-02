@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rajeshwar Parihar
 
-💻 **Senior Full Stack Developer (7+ Years Experience)**  
+💻 **Full Stack Developer (8 Years Experience)**  
 Experienced in building scalable CRM systems, internal tools, dashboards, and marketing platforms.
 
 ⚡ Skilled in **PHP (Core & Laravel), React, Node.js, MySQL, and REST APIs** with proven experience handling **large datasets (25M–90M records)** and building stable backend architectures.
