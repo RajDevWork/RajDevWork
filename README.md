@@ -10,8 +10,8 @@ I specialize in building **scalable enterprise applications**, **SaaS platforms*
 
 <div align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajDevWork&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajDevWork&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajDevWork&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDevWork&layout=compact&theme=radical&hide_border=true" height="170" />
   
   <br/>
   
